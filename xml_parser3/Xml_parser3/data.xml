@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="shift_jis"?>
+
+<session sessioncode="6504215296">
+  <general>
+    <mode>real</mode>
+    <gametype>Omaha PL ?0.02/?0.04</gametype>
+    <tablename>Brorup, 817773381</tablename>
+    <tablecurrency>EUR</tablecurrency>
+    <duration>00:34</duration>
+    <gamecount>32</gamecount>
+    <startdate>2015-10-27 16:41:16</startdate>
+    <currency>JPY</currency>
+    <nickname>Reebmiya</nickname>
+    <bets>?5.06</bets>
+    <wins>?5.73</wins>
+    <chipsin>?3.94</chipsin>
+    <chipsout>?4.61</chipsout>
+    <ipoints>1.43</ipoints>
+    <statuspoints>1.20</statuspoints>
+    <awardpoints>1.43</awardpoints>
+  </general>
+  <game gamecode="6738084698">
+    <general>
+      <startdate>2015-10-27 16:41:55</startdate>
+      <players>
+       <player seat="1" name="FtwSwdnaction" chips="?5.10" dealer="0" win="?0" bet="?0" rebuy="0" addon="0" reg_code="-"/>
+       <player seat="3" name="kathy44" chips="?2.31" dealer="0" win="?0" bet="?0.04" rebuy="0" addon="0" reg_code="-"/>
+       <player seat="5" name="SRVfan1984" chips="?4" dealer="1" win="?0" bet="?0" rebuy="0" addon="0" reg_code="-"/>
+       <player seat="6" name="akrij13" chips="?2.54" dealer="0" win="?0" bet="?0.04" rebuy="0" addon="0" reg_code="-"/>
+       <player seat="8" name="Reebmiya" chips="?2.88" dealer="0" win="?0.12" bet="?0.04" rebuy="0" addon="0" reg_code="-"/>
+       <player seat="10" name="sclafferbox" chips="?0" dealer="0" win="?0" bet="?0" rebuy="0" addon="0" reg_code="-"/>
+      </players>
+      </general>
+    <round no="0">
+      <action no="1" player="akrij13" type="1" sum="?0.02" cards="[cards]"/>
+      <action no="2" player="Reebmiya" type="2" sum="?0.04" cards="[cards]"/>
+    </round>
+    <round no="1">
+      <cards type="Pocket" player="FtwSwdn">X X X X</cards>
+      <action no="3" player="FtwSwdn" type="0" sum="?0" cards=""/>
+      <cards type="Pocket" player="kathy44">D3 S7 S8 CQ</cards>
+      <action no="4" player="kathy44" type="3" sum="?0.04" cards=""/>
+      <cards type="Pocket" player="SRVfan1984">X X X X</cards>
+      <action no="5" player="SRVfan1984" type="0" sum="?0" cards=""/>
+      <cards type="Pocket" player="akrij13">D2 HA DK H8</cards>
+      <action no="6" player="akrij13" type="3" sum="?0.02" cards=""/>
+      <cards type="Pocket" player="Reebmiya">D5 SQ S5 DJ</cards>
+      <action no="7" player="Reebmiya" type="4" sum="?0" cards=""/>
+    </round>
+    <round no="2">
+      <cards type="Flop" player="">S3 D6 C6</cards>
+      <action no="10" player="kathy44" type="4" sum="?0" cards=""/>
+      <action no="8" player="akrij13" type="4" sum="?0" cards=""/>
+      <action no="9" player="Reebmiya" type="4" sum="?0" cards=""/>
+    </round>
+    <round no="3">
+      <cards type="Turn" player="">C2</cards>
+      <action no="13" player="kathy44" type="4" sum="?0" cards=""/>
+      <action no="11" player="akrij13" type="4" sum="?0" cards=""/>
+      <action no="12" player="Reebmiya" type="4" sum="?0" cards=""/>
+    </round>
+    <round no="4">
+      <cards type="River" player="">D4</cards>
+      <action no="16" player="kathy44" type="4" sum="?0" cards=""/>
+      <action no="14" player="akrij13" type="4" sum="?0" cards=""/>
+      <action no="15" player="Reebmiya" type="4" sum="?0" cards=""/>
+    </round>
+  </game>
+</session>
