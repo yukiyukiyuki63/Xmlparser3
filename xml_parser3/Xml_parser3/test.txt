@@ -1,0 +1,1946 @@
+sessioncode  [6504215296]
+mode = real,gametype = Omaha PL €0.02/€0.04,tablename = Brorup, 817773381,tablecurrency = Brorup, 817773381,duration = 00:34,gamecount = 32,startdate = 2015-10-27 16:41:16,currency = JPY,nickname = Reebmiya,tablename = Brorup, 817773381,wins = €5.73,chipsin = €3.94,chipsout = €4.61,ipoints = 1.43,statuspoints = 1.2,awardpoints = 1.43
+
+
+game [[6738084698]]
+
+startdate:  2015-10-27 16:41:55
+seat = 1,name = FtwSwdn,chips = €5.10,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.31,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 6,name = akrij13,chips = €2.54,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €2.88,dealer = 0,win = €0.12,addon = 0,reg_code = -
+seat = 10,name = sclafferbox,chips = €0,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = akrij13,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = Reebmiya,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  D3 S7 S8 CQ
+type = Pocket,player = kathy44
+action:  
+no = 4,player = kathy44,type = 3,sum = €0.04,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 5,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  D2 HA DK H8
+type = Pocket,player = akrij13
+action:  
+no = 6,player = akrij13,type = 3,sum = €0.02,cards = 
+cards:  D5 SQ S5 DJ
+type = Pocket,player = Reebmiya
+action:  
+no = 7,player = Reebmiya,type = 4,sum = €0,cards = 
+
+round no  [[2]]
+cards:  S3 D6 C6
+type = Flop,player = 
+action:  
+no = 10,player = kathy44,type = 4,sum = €0,cards = 
+action:  
+no = 8,player = akrij13,type = 4,sum = €0,cards = 
+action:  
+no = 9,player = Reebmiya,type = 4,sum = €0,cards = 
+
+round no  [[3]]
+cards:  C2
+type = Turn,player = 
+action:  
+no = 13,player = kathy44,type = 4,sum = €0,cards = 
+action:  
+no = 11,player = akrij13,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = Reebmiya,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  D4
+type = River,player = 
+action:  
+no = 16,player = kathy44,type = 4,sum = €0,cards = 
+action:  
+no = 14,player = akrij13,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = Reebmiya,type = 4,sum = €0,cards = 
+
+
+game [[6738087643]]
+
+startdate:  2015-10-27 16:43:27
+seat = 1,name = FtwSwdn,chips = €5.10,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = akrij13,chips = €2.50,dealer = 1,win = €0.10,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €2.96,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = Reebmiya,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = majorron99,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  C9 H9 C3 S3
+type = Pocket,player = akrij13
+action:  
+no = 4,player = akrij13,type = 3,sum = €0.04,cards = 
+cards:  C5 HQ H4 D5
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  C7 D3 CJ S9
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[2]]
+cards:  DK DA S5
+type = Flop,player = 
+action:  
+no = 8,player = akrij13,type = 4,sum = €0,cards = 
+action:  
+no = 7,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[3]]
+cards:  SA
+type = Turn,player = 
+action:  
+no = 10,player = akrij13,type = 4,sum = €0,cards = 
+action:  
+no = 9,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  D7
+type = River,player = 
+action:  
+no = 12,player = akrij13,type = 4,sum = €0,cards = 
+action:  
+no = 11,player = majorron99,type = 4,sum = €0,cards = 
+
+
+game [[6738088417]]
+
+startdate:  2015-10-27 16:44:08
+seat = 1,name = FtwSwdn,chips = €5.10,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = akrij13,chips = €2.56,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €3.96,dealer = 0,win = €0.53,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 2,player = FtwSwdn,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 1,player = majorron99,type = 1,sum = €0.02,cards = [cards]
+
+round no  [[1]]
+cards:  DA SA D3 C5
+type = Pocket,player = FtwSwdn
+action:  
+no = 7,player = FtwSwdn,type = 23,sum = €0.12,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 3,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = akrij13
+action:  
+no = 4,player = akrij13,type = 0,sum = €0,cards = 
+cards:  DQ C4 S10 D2
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  S5 D8 C7 C2
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 3,sum = €0.02,cards = 
+action:  
+no = 8,player = majorron99,type = 3,sum = €0.08,cards = 
+
+round no  [[2]]
+cards:  CK S6 C6
+type = Flop,player = 
+action:  
+no = 10,player = FtwSwdn,type = 5,sum = €0.16,cards = 
+action:  
+no = 9,player = majorron99,type = 4,sum = €0,cards = 
+action:  
+no = 11,player = majorron99,type = 3,sum = €0.16,cards = 
+
+round no  [[3]]
+cards:  CJ
+type = Turn,player = 
+action:  
+no = 13,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  H5
+type = River,player = 
+action:  
+no = 15,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 14,player = majorron99,type = 4,sum = €0,cards = 
+
+
+game [[6738089915]]
+
+startdate:  2015-10-27 16:44:50
+seat = 1,name = FtwSwdn,chips = €4.82,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = akrij13,chips = €2.56,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4,dealer = 0,win = €0.20,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.21,dealer = 1,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = FtwSwdn,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = SRVfan1984,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 7,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = akrij13
+action:  
+no = 3,player = akrij13,type = 0,sum = €0,cards = 
+cards:  SQ CJ D6 HJ
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 23,sum = €0.14,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 5,player = majorron99,type = 0,sum = €0,cards = 
+
+
+game [[6738090911]]
+
+startdate:  2015-10-27 16:45:54
+seat = 1,name = FtwSwdn,chips = €4.80,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.06,dealer = 0,win = €0.06,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.21,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = SRVfan1984,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = Reebmiya,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 4,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 5,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  S4 H10 HA H4
+type = Pocket,player = Reebmiya
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 3,player = majorron99,type = 0,sum = €0,cards = 
+
+
+game [[6738091125]]
+
+startdate:  2015-10-27 16:46:13
+seat = 1,name = FtwSwdn,chips = €4.80,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.08,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.21,dealer = 0,win = €0.44,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = Reebmiya,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = majorron99,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 4,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  CK S3 HK C6
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 23,sum = €0.12,cards = 
+action:  
+no = 7,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 23,sum = €0.32,cards = 
+
+
+game [[6738092361]]
+
+startdate:  2015-10-27 16:46:51
+seat = 1,name = FtwSwdn,chips = €4.80,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €3.96,dealer = 1,win = €0.55,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.33,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 2,player = FtwSwdn,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 1,player = majorron99,type = 1,sum = €0.02,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 3,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  CQ C10 DA H10
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 23,sum = €0.14,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 5,player = majorron99,type = 3,sum = €0.12,cards = 
+
+round no  [[2]]
+cards:  DQ S2 S9
+type = Flop,player = 
+action:  
+no = 8,player = Reebmiya,type = 5,sum = €0.25,cards = 
+action:  
+no = 7,player = majorron99,type = 4,sum = €0,cards = 
+action:  
+no = 9,player = majorron99,type = 0,sum = €0,cards = 
+
+
+game [[6738094613]]
+
+startdate:  2015-10-27 16:47:35
+seat = 1,name = FtwSwdn,chips = €4.76,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.12,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.19,dealer = 1,win = €0.15,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = FtwSwdn,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = SRVfan1984,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 5,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 6,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  C4 S4 D2 C6
+type = Pocket,player = Reebmiya
+action:  
+no = 3,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 4,player = majorron99,type = 23,sum = €0.09,cards = 
+
+
+game [[6738095026]]
+
+startdate:  2015-10-27 16:48:11
+seat = 1,name = FtwSwdn,chips = €4.74,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 3,name = kathy44,chips = €2.27,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.12,dealer = 0,win = €0.06,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.25,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = SRVfan1984,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = Reebmiya,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 4,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 5,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  S7 C2 S8 D10
+type = Pocket,player = Reebmiya
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 3,player = majorron99,type = 0,sum = €0,cards = 
+
+
+game [[6738095686]]
+
+startdate:  2015-10-27 16:48:39
+seat = 1,name = FtwSwdn,chips = €4.74,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.14,dealer = 0,win = €0.62,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.25,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = Reebmiya,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = majorron99,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 3,sum = €0.04,cards = 
+action:  
+no = 7,player = FtwSwdn,type = 3,sum = €0.12,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 4,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  HK HJ S8 SJ
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 23,sum = €0.16,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  S4 CK D4
+type = Flop,player = 
+action:  
+no = 9,player = FtwSwdn,type = 0,sum = €0,cards = 
+action:  
+no = 8,player = Reebmiya,type = 5,sum = €0.28,cards = 
+
+
+game [[6738097846]]
+
+startdate:  2015-10-27 16:49:36
+seat = 1,name = FtwSwdn,chips = €4.58,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.60,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0.52,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.32,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.21,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 2,player = FtwSwdn,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 1,player = majorron99,type = 1,sum = €0.02,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 3,sum = €0.10,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 3,player = SRVfan1984,type = 23,sum = €0.14,cards = 
+cards:  H7 CK H9 S9
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 5,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  S5 DA C3
+type = Flop,player = 
+action:  
+no = 7,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 9,player = FtwSwdn,type = 0,sum = €0,cards = 
+action:  
+no = 8,player = SRVfan1984,type = 5,sum = €0.24,cards = 
+
+
+game [[6738098545]]
+
+startdate:  2015-10-27 16:50:14
+seat = 1,name = FtwSwdn,chips = €4.44,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.60,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4.14,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €0,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.19,dealer = 1,win = €1.01,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = FtwSwdn,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = krulsnor29,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 3,sum = €0.10,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 7,player = krulsnor29,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 3,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  S9 D9 S4 C7
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 5,player = majorron99,type = 23,sum = €0.12,cards = 
+
+round no  [[2]]
+cards:  S6 H10 S10
+type = Flop,player = 
+action:  
+no = 8,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 9,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 10,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[3]]
+cards:  H3
+type = Turn,player = 
+action:  
+no = 11,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 14,player = FtwSwdn,type = 0,sum = €0,cards = 
+action:  
+no = 12,player = krulsnor29,type = 5,sum = €0.04,cards = 
+action:  
+no = 13,player = majorron99,type = 3,sum = €0.04,cards = 
+
+round no  [[4]]
+cards:  DJ
+type = River,player = 
+action:  
+no = 15,player = krulsnor29,type = 5,sum = €0.04,cards = 
+action:  
+no = 17,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 16,player = majorron99,type = 23,sum = €0.56,cards = 
+
+
+game [[6738100243]]
+
+startdate:  2015-10-27 16:51:32
+seat = 1,name = FtwSwdn,chips = €4.32,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.40,dealer = 0,win = €0.53,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4.14,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €2.22,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.48,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = krulsnor29,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = SRVfan1984,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 3,player = childsplay8,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 7,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  CK D3 DA H4
+type = Pocket,player = krulsnor29
+action:  
+no = 8,player = krulsnor29,type = 3,sum = €0.02,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 9,player = SRVfan1984,type = 4,sum = €0,cards = 
+cards:  C7 S6 SA HJ
+type = Pocket,player = childsplay8
+action:  
+no = 4,player = childsplay8,type = 4,sum = €0,cards = 
+cards:  H2 DJ S7 HA
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 3,sum = €0.04,cards = 
+
+round no  [[2]]
+cards:  S2 D4 H7
+type = Flop,player = 
+action:  
+no = 10,player = krulsnor29,type = 5,sum = €0.04,cards = 
+action:  
+no = 11,player = SRVfan1984,type = 0,sum = €0,cards = 
+action:  
+no = 12,player = childsplay8,type = 3,sum = €0.04,cards = 
+action:  
+no = 13,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[3]]
+cards:  S4
+type = Turn,player = 
+action:  
+no = 14,player = krulsnor29,type = 5,sum = €0.12,cards = 
+action:  
+no = 15,player = childsplay8,type = 3,sum = €0.12,cards = 
+
+round no  [[4]]
+cards:  C8
+type = River,player = 
+action:  
+no = 16,player = krulsnor29,type = 5,sum = €0.04,cards = 
+action:  
+no = 17,player = childsplay8,type = 3,sum = €0.04,cards = 
+
+
+game [[6738101264]]
+
+startdate:  2015-10-27 16:52:44
+seat = 1,name = FtwSwdn,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.69,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4.10,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €1.98,dealer = 0,win = €3.29,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.44,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = SRVfan1984,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = childsplay8,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 5,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  S7 DK HA D7
+type = Pocket,player = krulsnor29
+action:  
+no = 6,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 10,player = krulsnor29,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 7,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  DQ C8 DA H8
+type = Pocket,player = childsplay8
+action:  
+no = 8,player = childsplay8,type = 23,sum = €0.12,cards = 
+cards:  S8 H5 H4 SJ
+type = Pocket,player = Reebmiya
+action:  
+no = 3,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 4,player = majorron99,type = 3,sum = €0.04,cards = 
+action:  
+no = 9,player = majorron99,type = 3,sum = €0.08,cards = 
+
+round no  [[2]]
+cards:  D9 D3 D2
+type = Flop,player = 
+action:  
+no = 13,player = krulsnor29,type = 23,sum = €0.16,cards = 
+action:  
+no = 11,player = childsplay8,type = 5,sum = €0.08,cards = 
+action:  
+no = 14,player = childsplay8,type = 3,sum = €0.08,cards = 
+action:  
+no = 12,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[3]]
+cards:  HJ
+type = Turn,player = 
+action:  
+no = 16,player = krulsnor29,type = 5,sum = €0.12,cards = 
+action:  
+no = 18,player = krulsnor29,type = 3,sum = €0.41,cards = 
+action:  
+no = 15,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 17,player = childsplay8,type = 23,sum = €0.53,cards = 
+
+round no  [[4]]
+cards:  S9
+type = River,player = 
+action:  
+no = 20,player = krulsnor29,type = 7,sum = €0.88,cards = 
+action:  
+no = 19,player = childsplay8,type = 5,sum = €0.88,cards = 
+
+
+game [[6738104524]]
+
+startdate:  2015-10-27 16:54:01
+seat = 1,name = FtwSwdn,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4.08,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.58,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.32,dealer = 0,win = €0.42,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = childsplay8,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = Reebmiya,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 4,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 5,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  S4 C5 D10 C8
+type = Pocket,player = childsplay8
+action:  
+no = 6,player = childsplay8,type = 23,sum = €0.08,cards = 
+action:  
+no = 9,player = childsplay8,type = 3,sum = €0.04,cards = 
+cards:  H10 D8 H7 H2
+type = Pocket,player = Reebmiya
+action:  
+no = 7,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  C4 S6 DJ CJ
+type = Pocket,player = majorron99
+action:  
+no = 3,player = majorron99,type = 3,sum = €0.04,cards = 
+action:  
+no = 8,player = majorron99,type = 23,sum = €0.12,cards = 
+
+round no  [[2]]
+cards:  S3 SA CQ
+type = Flop,player = 
+action:  
+no = 10,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = childsplay8,type = 3,sum = €0.04,cards = 
+action:  
+no = 11,player = majorron99,type = 5,sum = €0.04,cards = 
+
+round no  [[3]]
+cards:  C3
+type = Turn,player = 
+action:  
+no = 13,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = childsplay8,type = 3,sum = €0.04,cards = 
+action:  
+no = 14,player = majorron99,type = 5,sum = €0.04,cards = 
+
+round no  [[4]]
+cards:  D4
+type = River,player = 
+action:  
+no = 16,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 17,player = majorron99,type = 4,sum = €0,cards = 
+
+
+game [[6738104989]]
+
+startdate:  2015-10-27 16:54:40
+seat = 1,name = FtwSwdn,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.60,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4.08,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.38,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.28,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.54,dealer = 0,win = €0.47,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = Reebmiya,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = majorron99,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  C2 H6 S4 C8
+type = Pocket,player = krulsnor29
+action:  
+no = 4,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 9,player = krulsnor29,type = 3,sum = €0.04,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 5,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  SK S5 D6 D8
+type = Pocket,player = childsplay8
+action:  
+no = 6,player = childsplay8,type = 23,sum = €0.08,cards = 
+cards:  S9 H10 H7 DK
+type = Pocket,player = Reebmiya
+action:  
+no = 7,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  H9 C10 S6 D4
+type = Pocket,player = majorron99
+action:  
+no = 8,player = majorron99,type = 3,sum = €0.04,cards = 
+
+round no  [[2]]
+cards:  C7 C4 D9
+type = Flop,player = 
+action:  
+no = 11,player = krulsnor29,type = 5,sum = €0.04,cards = 
+action:  
+no = 14,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 12,player = childsplay8,type = 23,sum = €0.08,cards = 
+action:  
+no = 10,player = majorron99,type = 4,sum = €0,cards = 
+action:  
+no = 13,player = majorron99,type = 3,sum = €0.08,cards = 
+
+round no  [[3]]
+cards:  HQ
+type = Turn,player = 
+action:  
+no = 16,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 17,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  S2
+type = River,player = 
+action:  
+no = 19,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 20,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 18,player = majorron99,type = 4,sum = €0,cards = 
+
+
+game [[6738110949]]
+
+startdate:  2015-10-27 16:55:32
+seat = 1,name = FtwSwdn,chips = €4.32,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.44,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4.08,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.22,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.26,dealer = 1,win = €3.02,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.85,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 2,player = FtwSwdn,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 1,player = majorron99,type = 1,sum = €0.02,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 8,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 3,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 9,player = krulsnor29,type = 3,sum = €0.14,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 4,player = SRVfan1984,type = 23,sum = €0.18,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 5,player = childsplay8,type = 0,sum = €0,cards = 
+cards:  D5 H9 H5 S9
+type = Pocket,player = Reebmiya
+action:  
+no = 6,player = Reebmiya,type = 3,sum = €0.18,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 7,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  DA H10 C5
+type = Flop,player = 
+action:  
+no = 10,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 13,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 11,player = SRVfan1984,type = 5,sum = €0.48,cards = 
+action:  
+no = 12,player = Reebmiya,type = 3,sum = €0.48,cards = 
+
+round no  [[3]]
+cards:  C7
+type = Turn,player = 
+action:  
+no = 14,player = SRVfan1984,type = 4,sum = €0,cards = 
+action:  
+no = 16,player = SRVfan1984,type = 0,sum = €0,cards = 
+action:  
+no = 15,player = Reebmiya,type = 5,sum = €1.56,cards = 
+
+
+game [[6738113812]]
+
+startdate:  2015-10-27 16:56:56
+seat = 1,name = FtwSwdn,chips = €4.28,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.26,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.22,dealer = 0,win = €0.50,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.06,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.83,dealer = 1,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = FtwSwdn,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = krulsnor29,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 7,player = FtwSwdn,type = 3,sum = €0.06,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 8,player = krulsnor29,type = 3,sum = €0.04,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 3,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 4,player = childsplay8,type = 23,sum = €0.08,cards = 
+cards:  S4 HQ CJ D9
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  S3 S7 H5
+type = Flop,player = 
+action:  
+no = 9,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = FtwSwdn,type = 0,sum = €0,cards = 
+action:  
+no = 10,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 13,player = krulsnor29,type = 3,sum = €0.08,cards = 
+action:  
+no = 11,player = childsplay8,type = 5,sum = €0.08,cards = 
+
+round no  [[3]]
+cards:  D6
+type = Turn,player = 
+action:  
+no = 14,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = childsplay8,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  HJ
+type = River,player = 
+action:  
+no = 16,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 18,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 17,player = childsplay8,type = 5,sum = €0.12,cards = 
+
+
+game [[6738114540]]
+
+startdate:  2015-10-27 16:57:58
+seat = 1,name = FtwSwdn,chips = €4.20,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.10,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.44,dealer = 0,win = €0.73,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.06,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.83,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = krulsnor29,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = SRVfan1984,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 7,player = krulsnor29,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 8,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  CQ DQ SA CK
+type = Pocket,player = childsplay8
+action:  
+no = 3,player = childsplay8,type = 23,sum = €0.08,cards = 
+action:  
+no = 9,player = childsplay8,type = 3,sum = €0.12,cards = 
+cards:  S8 SK H10 H5
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  S10 C8 DA SJ
+type = Pocket,player = majorron99
+action:  
+no = 5,player = majorron99,type = 23,sum = €0.20,cards = 
+
+round no  [[2]]
+cards:  D7 S5 S3
+type = Flop,player = 
+action:  
+no = 10,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = childsplay8,type = 3,sum = €0.16,cards = 
+action:  
+no = 11,player = majorron99,type = 5,sum = €0.16,cards = 
+
+round no  [[3]]
+cards:  DJ
+type = Turn,player = 
+action:  
+no = 13,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 14,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  H2
+type = River,player = 
+action:  
+no = 15,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 16,player = majorron99,type = 4,sum = €0,cards = 
+
+
+game [[6738115494]]
+
+startdate:  2015-10-27 16:58:48
+seat = 1,name = FtwSwdn,chips = €4.20,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.08,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.81,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.06,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.47,dealer = 0,win = €1.27,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = SRVfan1984,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = childsplay8,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 5,player = FtwSwdn,type = 3,sum = €0.08,cards = 
+action:  
+no = 10,player = FtwSwdn,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 6,player = krulsnor29,type = 3,sum = €0.08,cards = 
+action:  
+no = 11,player = krulsnor29,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 7,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  SJ H9 C3 HJ
+type = Pocket,player = childsplay8
+action:  
+no = 8,player = childsplay8,type = 23,sum = €0.12,cards = 
+action:  
+no = 12,player = childsplay8,type = 3,sum = €0.04,cards = 
+cards:  H6 DJ D2 D6
+type = Pocket,player = Reebmiya
+action:  
+no = 3,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  H10 SQ SK C10
+type = Pocket,player = majorron99
+action:  
+no = 4,player = majorron99,type = 23,sum = €0.08,cards = 
+action:  
+no = 9,player = majorron99,type = 23,sum = €0.16,cards = 
+
+round no  [[2]]
+cards:  S6 S9 C2
+type = Flop,player = 
+action:  
+no = 15,player = FtwSwdn,type = 0,sum = €0,cards = 
+action:  
+no = 16,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 13,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 17,player = childsplay8,type = 3,sum = €0.31,cards = 
+action:  
+no = 14,player = majorron99,type = 5,sum = €0.31,cards = 
+
+round no  [[3]]
+cards:  D5
+type = Turn,player = 
+action:  
+no = 18,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 19,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  CK
+type = River,player = 
+action:  
+no = 20,player = childsplay8,type = 5,sum = €0.04,cards = 
+action:  
+no = 21,player = majorron99,type = 3,sum = €0.04,cards = 
+
+
+game [[6738119694]]
+
+startdate:  2015-10-27 17:00:50
+seat = 1,name = FtwSwdn,chips = €4.04,dealer = 0,win = €2.68,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.92,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = SRVfan1984,chips = €4,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.30,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.06,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €5.23,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = childsplay8,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = Reebmiya,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 4,player = FtwSwdn,type = 23,sum = €0.30,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 5,player = krulsnor29,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = SRVfan1984
+action:  
+no = 6,player = SRVfan1984,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 7,player = childsplay8,type = 0,sum = €0,cards = 
+cards:  S5 H6 SK CA
+type = Pocket,player = Reebmiya
+action:  
+no = 8,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 3,player = majorron99,type = 23,sum = €0.08,cards = 
+action:  
+no = 9,player = majorron99,type = 3,sum = €0.22,cards = 
+
+round no  [[2]]
+cards:  C5 HQ D6
+type = Flop,player = 
+action:  
+no = 11,player = FtwSwdn,type = 5,sum = €0.46,cards = 
+action:  
+no = 10,player = majorron99,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = majorron99,type = 3,sum = €0.46,cards = 
+
+round no  [[3]]
+cards:  CK
+type = Turn,player = 
+action:  
+no = 14,player = FtwSwdn,type = 5,sum = €1.20,cards = 
+action:  
+no = 13,player = majorron99,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = majorron99,type = 0,sum = €0,cards = 
+
+
+game [[6738121389]]
+
+startdate:  2015-10-27 17:01:53
+seat = 1,name = FtwSwdn,chips = €4.76,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.92,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.28,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.02,dealer = 0,win = €0.78,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.47,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = Reebmiya,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = majorron99,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 4,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 8,player = krulsnor29,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 5,player = childsplay8,type = 3,sum = €0.04,cards = 
+action:  
+no = 9,player = childsplay8,type = 3,sum = €0.16,cards = 
+cards:  HQ DA H9 SA
+type = Pocket,player = Reebmiya
+action:  
+no = 6,player = Reebmiya,type = 23,sum = €0.20,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 7,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  DK D4 HK
+type = Flop,player = 
+action:  
+no = 11,player = childsplay8,type = 0,sum = €0,cards = 
+action:  
+no = 10,player = Reebmiya,type = 5,sum = €0.33,cards = 
+
+
+game [[6738121945]]
+
+startdate:  2015-10-27 17:02:42
+seat = 1,name = FtwSwdn,chips = €4.76,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.88,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €0,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.08,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.27,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.43,dealer = 0,win = €1.30,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 2,player = FtwSwdn,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 1,player = majorron99,type = 1,sum = €0.02,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 7,player = FtwSwdn,type = 23,sum = €0.20,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 3,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 8,player = krulsnor29,type = 3,sum = €0.16,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 4,player = childsplay8,type = 3,sum = €0.04,cards = 
+action:  
+no = 9,player = childsplay8,type = 3,sum = €0.16,cards = 
+cards:  HQ S4 H9 C9
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 6,player = majorron99,type = 3,sum = €0.02,cards = 
+action:  
+no = 10,player = majorron99,type = 3,sum = €0.16,cards = 
+
+round no  [[2]]
+cards:  S8 C2 D6
+type = Flop,player = 
+action:  
+no = 12,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 13,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 14,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 11,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[3]]
+cards:  SA
+type = Turn,player = 
+action:  
+no = 16,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 20,player = FtwSwdn,type = 0,sum = €0,cards = 
+action:  
+no = 17,player = krulsnor29,type = 5,sum = €0.08,cards = 
+action:  
+no = 21,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 18,player = childsplay8,type = 3,sum = €0.08,cards = 
+action:  
+no = 22,player = childsplay8,type = 0,sum = €0,cards = 
+action:  
+no = 15,player = majorron99,type = 4,sum = €0,cards = 
+action:  
+no = 19,player = majorron99,type = 23,sum = €0.40,cards = 
+
+
+game [[6738123983]]
+
+startdate:  2015-10-27 17:04:01
+seat = 1,name = FtwSwdn,chips = €4.56,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.60,dealer = 0,win = €1.48,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €4,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €2.80,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €5.27,dealer = 0,win = €0.32,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €5.13,dealer = 1,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = FtwSwdn,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = krulsnor29,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 3,player = nguema,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 8,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  HJ SA HK S7
+type = Pocket,player = krulsnor29
+action:  
+no = 9,player = krulsnor29,type = 3,sum = €0.14,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 4,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 10,player = nguema,type = 3,sum = €0.14,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 5,player = childsplay8,type = 0,sum = €0,cards = 
+cards:  D10 CJ C4 D5
+type = Pocket,player = Reebmiya
+action:  
+no = 6,player = Reebmiya,type = 23,sum = €0.18,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 7,player = majorron99,type = 3,sum = €0.18,cards = 
+
+round no  [[2]]
+cards:  D6 HQ H3
+type = Flop,player = 
+action:  
+no = 11,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = krulsnor29,type = 7,sum = €0.42,cards = 
+action:  
+no = 12,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 16,player = nguema,type = 0,sum = €0,cards = 
+action:  
+no = 13,player = Reebmiya,type = 5,sum = €0.74,cards = 
+action:  
+no = 14,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[3]]
+cards:  HA
+type = Turn,player = 
+
+round no  [[4]]
+cards:  SJ
+type = River,player = 
+
+
+game [[6738125545]]
+
+startdate:  2015-10-27 17:05:51
+seat = 1,name = FtwSwdn,chips = €4.54,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.48,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.82,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €2.80,dealer = 0,win = €0.56,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.67,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.95,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = krulsnor29,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = nguema,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 7,player = krulsnor29,type = 3,sum = €0.12,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 8,player = nguema,type = 3,sum = €0.10,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 3,player = childsplay8,type = 23,sum = €0.14,cards = 
+cards:  H2 S5 H4 S10
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 5,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  H6 S6 D7
+type = Flop,player = 
+action:  
+no = 9,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 10,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 13,player = nguema,type = 0,sum = €0,cards = 
+action:  
+no = 11,player = childsplay8,type = 5,sum = €0.16,cards = 
+
+
+game [[6738127237]]
+
+startdate:  2015-10-27 17:06:48
+seat = 1,name = FtwSwdn,chips = €4.54,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.34,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.68,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €3.06,dealer = 0,win = €2.43,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.67,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €4.95,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = nguema,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = childsplay8,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 5,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 6,player = krulsnor29,type = 3,sum = €0.08,cards = 
+action:  
+no = 10,player = krulsnor29,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 7,player = nguema,type = 3,sum = €0.06,cards = 
+action:  
+no = 11,player = nguema,type = 3,sum = €0.08,cards = 
+cards:  C7 H6 CK HK
+type = Pocket,player = childsplay8
+action:  
+no = 8,player = childsplay8,type = 23,sum = €0.16,cards = 
+cards:  C8 C6 HJ D6
+type = Pocket,player = Reebmiya
+action:  
+no = 3,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  SQ S4 CA SK
+type = Pocket,player = majorron99
+action:  
+no = 4,player = majorron99,type = 23,sum = €0.08,cards = 
+action:  
+no = 9,player = majorron99,type = 3,sum = €0.08,cards = 
+
+round no  [[2]]
+cards:  C5 S6 S2
+type = Flop,player = 
+action:  
+no = 15,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 12,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 16,player = nguema,type = 3,sum = €0.28,cards = 
+action:  
+no = 13,player = childsplay8,type = 5,sum = €0.28,cards = 
+action:  
+no = 14,player = majorron99,type = 3,sum = €0.28,cards = 
+
+round no  [[3]]
+cards:  H9
+type = Turn,player = 
+action:  
+no = 17,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 18,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 19,player = majorron99,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  D2
+type = River,player = 
+action:  
+no = 20,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 23,player = nguema,type = 0,sum = €0,cards = 
+action:  
+no = 21,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 24,player = childsplay8,type = 3,sum = €0.56,cards = 
+action:  
+no = 22,player = majorron99,type = 5,sum = €0.56,cards = 
+
+
+game [[6738129751]]
+
+startdate:  2015-10-27 17:08:07
+seat = 1,name = FtwSwdn,chips = €4.54,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.18,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.24,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €4.49,dealer = 0,win = €0.27,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.67,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = majorron99,chips = €3.95,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = childsplay8,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = Reebmiya,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 4,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 5,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 9,player = krulsnor29,type = 3,sum = €0.04,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 6,player = nguema,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 7,player = childsplay8,type = 23,sum = €0.08,cards = 
+cards:  D6 D3 SK H9
+type = Pocket,player = Reebmiya
+action:  
+no = 8,player = Reebmiya,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = majorron99
+action:  
+no = 3,player = majorron99,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  CA C8 DJ
+type = Flop,player = 
+action:  
+no = 11,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 10,player = childsplay8,type = 5,sum = €0.08,cards = 
+
+
+game [[6738130344]]
+
+startdate:  2015-10-27 17:08:58
+seat = 1,name = FtwSwdn,chips = €4.54,dealer = 0,win = €0.78,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €1.10,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.24,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €4.60,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.63,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = vojt10,chips = €0,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 2,player = FtwSwdn,type = 2,sum = €0.04,cards = [cards]
+action:  
+no = 1,player = Reebmiya,type = 1,sum = €0.02,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 7,player = FtwSwdn,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 3,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 8,player = krulsnor29,type = 3,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 4,player = nguema,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 5,player = childsplay8,type = 23,sum = €0.12,cards = 
+cards:  C2 HJ H4 C3
+type = Pocket,player = Reebmiya
+action:  
+no = 6,player = Reebmiya,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  SA S6 C6
+type = Flop,player = 
+action:  
+no = 9,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = FtwSwdn,type = 3,sum = €0.08,cards = 
+action:  
+no = 10,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 13,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 11,player = childsplay8,type = 5,sum = €0.08,cards = 
+
+round no  [[3]]
+cards:  D6
+type = Turn,player = 
+action:  
+no = 14,player = FtwSwdn,type = 4,sum = €0,cards = 
+action:  
+no = 15,player = childsplay8,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  D3
+type = River,player = 
+action:  
+no = 16,player = FtwSwdn,type = 5,sum = €0.27,cards = 
+action:  
+no = 17,player = childsplay8,type = 0,sum = €0,cards = 
+
+
+game [[6738133355]]
+
+startdate:  2015-10-27 17:10:23
+seat = 1,name = FtwSwdn,chips = €4.85,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.98,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.24,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €4.40,dealer = 0,win = €0.44,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.61,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 10,name = vojt10,chips = €3,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = FtwSwdn,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = krulsnor29,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 6,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 7,player = krulsnor29,type = 3,sum = €0.04,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 3,player = nguema,type = 23,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 4,player = childsplay8,type = 3,sum = €0.08,cards = 
+cards:  C8 H2 C2 S6
+type = Pocket,player = Reebmiya
+action:  
+no = 5,player = Reebmiya,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  CK S2 CA
+type = Flop,player = 
+action:  
+no = 8,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 11,player = krulsnor29,type = 0,sum = €0,cards = 
+action:  
+no = 9,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 12,player = nguema,type = 3,sum = €0.04,cards = 
+action:  
+no = 10,player = childsplay8,type = 5,sum = €0.04,cards = 
+
+round no  [[3]]
+cards:  D9
+type = Turn,player = 
+action:  
+no = 13,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 14,player = childsplay8,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  S5
+type = River,player = 
+action:  
+no = 15,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 17,player = nguema,type = 0,sum = €0,cards = 
+action:  
+no = 16,player = childsplay8,type = 5,sum = €0.12,cards = 
+
+
+game [[6738135024]]
+
+startdate:  2015-10-27 17:11:45
+seat = 1,name = FtwSwdn,chips = €4.83,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.90,dealer = 0,win = €0.16,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.12,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €4.60,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.61,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = vojt10,chips = €3,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = krulsnor29,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = nguema,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 5,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = krulsnor29
+action:  
+no = 6,player = krulsnor29,type = 3,sum = €0.02,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 7,player = nguema,type = 4,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 3,player = childsplay8,type = 0,sum = €0,cards = 
+cards:  S4 DK C9 S7
+type = Pocket,player = Reebmiya
+action:  
+no = 4,player = Reebmiya,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  S6 HK SK
+type = Flop,player = 
+action:  
+no = 8,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 9,player = nguema,type = 4,sum = €0,cards = 
+
+round no  [[3]]
+cards:  DJ
+type = Turn,player = 
+action:  
+no = 10,player = krulsnor29,type = 4,sum = €0,cards = 
+action:  
+no = 11,player = nguema,type = 4,sum = €0,cards = 
+
+round no  [[4]]
+cards:  H9
+type = River,player = 
+action:  
+no = 12,player = krulsnor29,type = 5,sum = €0.08,cards = 
+action:  
+no = 13,player = nguema,type = 0,sum = €0,cards = 
+
+
+game [[6738137480]]
+
+startdate:  2015-10-27 17:13:05
+seat = 1,name = FtwSwdn,chips = €4.83,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.94,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €3.08,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €4.60,dealer = 0,win = €1.91,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.61,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = vojt10,chips = €3,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = nguema,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = childsplay8,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 4,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  H6 S9 D9 D5
+type = Pocket,player = krulsnor29
+action:  
+no = 5,player = krulsnor29,type = 3,sum = €0.04,cards = 
+action:  
+no = 8,player = krulsnor29,type = 3,sum = €0.04,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 6,player = nguema,type = 3,sum = €0.02,cards = 
+action:  
+no = 9,player = nguema,type = 3,sum = €0.04,cards = 
+cards:  DK D7 S8 S10
+type = Pocket,player = childsplay8
+action:  
+no = 7,player = childsplay8,type = 23,sum = €0.08,cards = 
+cards:  H2 C5 CA HJ
+type = Pocket,player = Reebmiya
+action:  
+no = 3,player = Reebmiya,type = 0,sum = €0,cards = 
+
+round no  [[2]]
+cards:  S4 H7 DJ
+type = Flop,player = 
+action:  
+no = 12,player = krulsnor29,type = 3,sum = €0.12,cards = 
+action:  
+no = 10,player = nguema,type = 5,sum = €0.12,cards = 
+action:  
+no = 11,player = childsplay8,type = 3,sum = €0.12,cards = 
+
+round no  [[3]]
+cards:  C9
+type = Turn,player = 
+action:  
+no = 15,player = krulsnor29,type = 5,sum = €0.20,cards = 
+action:  
+no = 18,player = krulsnor29,type = 3,sum = €0.40,cards = 
+action:  
+no = 13,player = nguema,type = 4,sum = €0,cards = 
+action:  
+no = 16,player = nguema,type = 0,sum = €0,cards = 
+action:  
+no = 14,player = childsplay8,type = 4,sum = €0,cards = 
+action:  
+no = 17,player = childsplay8,type = 23,sum = €0.60,cards = 
+
+round no  [[4]]
+cards:  C10
+type = River,player = 
+action:  
+no = 20,player = krulsnor29,type = 3,sum = €0.12,cards = 
+action:  
+no = 19,player = childsplay8,type = 5,sum = €0.12,cards = 
+
+
+game [[6738143430]]
+
+startdate:  2015-10-27 17:15:03
+seat = 1,name = FtwSwdn,chips = €4.83,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 3,name = krulsnor29,chips = €0.02,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 5,name = nguema,chips = €2.88,dealer = 1,win = €0,addon = 0,reg_code = -
+seat = 6,name = childsplay8,chips = €5.59,dealer = 0,win = €0.12,addon = 0,reg_code = -
+seat = 8,name = Reebmiya,chips = €4.61,dealer = 0,win = €0,addon = 0,reg_code = -
+seat = 10,name = vojt10,chips = €3,dealer = 0,win = €0,addon = 0,reg_code = -
+
+round no  [[0]]
+action:  
+no = 1,player = childsplay8,type = 1,sum = €0.02,cards = [cards]
+action:  
+no = 2,player = vojt10,type = 2,sum = €0.04,cards = [cards]
+
+round no  [[1]]
+cards:  X X X X
+type = Pocket,player = FtwSwdn
+action:  
+no = 3,player = FtwSwdn,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = nguema
+action:  
+no = 4,player = nguema,type = 0,sum = €0,cards = 
+cards:  X X X X
+type = Pocket,player = childsplay8
+action:  
+no = 5,player = childsplay8,type = 23,sum = €0.08,cards = 
+cards:  X X X X
+type = Pocket,player = vojt10
+action:  
+no = 6,player = vojt10,type = 0,sum = €0,cards = 
